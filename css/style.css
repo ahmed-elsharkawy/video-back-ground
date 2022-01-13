@@ -1,0 +1,89 @@
+body{
+    font-family: 'segoe ui light';
+}
+
+
+/* Navbar part ------------------------------------------------------------ */
+.navbar{
+    background-color: #111 !important;
+}
+.navbar-brand{
+    font-size: 37px;
+}
+.navbar-nav{
+    font-size: larger;
+}
+
+
+/* header part ------------------------------------------------------------- */
+.header{
+    color: #fff;
+    border-bottom: 4px solid #111;
+}
+.headline{
+    font-size: 55px;
+}
+.header-content p{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+
+/* services part ---------------------------------------------------------- */
+.services-hedline {
+    font-size: 40px;
+}
+.services-hedline span{
+    font-size: 35px;
+    color: #111;
+}
+.services .item p{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+/* separate part -------------------------------------------------------- */
+.separate {
+    background-color: #111 !important;
+}
+.separate h2{
+    font-size: 35px;
+}
+.nav-item{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+/* portfolio part ------------------------------------------------------ */
+.card-body a:hover{
+    background-color: #343a40!important;
+}
+
+
+/* pricing part -------------------------------------------------------- */
+.pricing{
+    background-color: #e1e1e1;
+}
+.price99{
+    font-size: 60px;
+}
+.price-data h5{
+    font-size: 25px;
+}
+.price-data p{
+    font-size: 19px;
+}
+
+
+/* contact part --------------------------------------------------------- */
+.we-are-social .links a{
+    font-size: 25px;
+}
+.w-mine{
+    width: 220px;
+}
+.contact form{
+    background-color: #000;
+}
